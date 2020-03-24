@@ -1,0 +1,8 @@
+﻿  Funcoes.c
+  main.c
+c:\users\kuma\documents\utfpr\estrutura de dados\meta tic tac toe (ds e gk)\meta tic tac toe (ds e gk)\main.c(6): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Meta.c
+  Play Alone.c
+  Play.c
+  Generating Code...
+  Meta Tic Tac Toe (DS e GK).vcxproj -> C:\Users\kuma\Documents\UTFPR\ESTRUTURA DE DADOS\Meta Tic Tac Toe (DS e GK)\Debug\Meta Tic Tac Toe (DS e GK).exe
